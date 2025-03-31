@@ -27,7 +27,7 @@ Sou desenvolvedor backend com foco em Python, SQL e frameworks como FastAPI e Dj
 <br/>
 
 <a href="https://github.com/MADS-Coder" title="Perfil do Matheus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MADS-Coder&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MADS-Coder&theme=dark&show_icons=true" />
 </a>
 
 ## Onde me encontrar
