@@ -1,56 +1,36 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+Sou desenvolvedor backend com foco em Python, SQL e frameworks como FastAPI e Django. Tenho experiência em desenvolvimento de APIs, bancos de dados e análise de dados. Atualmente, curso Análise e Desenvolvimento de Sistemas e já possuo formação técnica na área. Minha abordagem é prática e orientada a resultados, sempre buscando soluções eficientes e escaláveis. 🚀
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge)
+
 
 **Utilidades**
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-4f5160?logo=insomnia&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?logo=github&logoColor=white&style=for-the-badge)
 
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Trello](https://img.shields.io/badge/-Trello-00c2e0?logo=trello&logoColor=white&style=for-the-badge)
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/MADS-Coder" title="Perfil do Matheus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MADS-Coder&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mtduartedev/)](https://www.linkedin.com/in/mtduartedev/)
+[![E-mail](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mtduarteadm@hotmail.com)
