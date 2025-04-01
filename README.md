@@ -24,11 +24,6 @@ Sou desenvolvedor backend com foco em Python, SQL e frameworks como FastAPI e Dj
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Trello](https://img.shields.io/badge/-Trello-00c2e0?logo=trello&logoColor=white&style=for-the-badge)
 
-<br/>
-
-<a href="https://github.com/MADS-Coder" title="Perfil do Matheus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MADS-Coder&theme=dark&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
