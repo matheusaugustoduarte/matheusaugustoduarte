@@ -7,6 +7,7 @@ Sou desenvolvedor backend com foco em Python, SQL e frameworks como FastAPI e Dj
 **Aplicações e dados**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge)
